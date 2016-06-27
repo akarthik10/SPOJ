@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467025746 source:c:\users\akarthi2\documents\spoj\next_palindrome\main.cpp
+	<iostream>
+	<cstring>
+
